@@ -43,7 +43,7 @@
 
 ⚡ Turning coffee into code since day one
 
-🎯 2024 Goals: Contribute more to Open Source projects
+🎯 Goals: Contribute more to Open Source projects
 
 </td>
 </tr>
