@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=MotUnHackable&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=NotUnHackable&style=for-the-badge&color=blueviolet" alt="Profile Views" />
   <a href="https://github.com/NotUnHackable?tab=followers">
     <img src="https://img.shields.io/github/followers/NotUnHackable?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers"/>
   </a>
@@ -177,7 +177,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NotUnHackable/NotUnHackable/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NotUnHackable/NotUnHackableoutput/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NotUnHackable/NotUnHackable/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/NotUnHackable/NotUnHackable/output/github-contribution-grid-snake.svg">
 </picture>
 
