@@ -1,7 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Aaryan%20Bansal&fontSize=60&fontAlignY=35&desc=Software%20Developer%20%7C%20UI/UX%20Designer%20%7C%20Tech%20Enthusiast&descAlignY=55&animation=fadeIn" alt="Header"/>
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=A177F7&center=true&vCenter=true&width=940&lines=Hey+there!+Welcome+to+my+profile+%F0%9F%91%8B;Software+Developer+%7C+UI%2FUX+Designer;Prompt+Engineer+%7C+Ethical+Hacker;Arch+Linux+User+%7C+Open+Source+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177F7&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Aaryan+Bansal+%F0%9F%91%8B;Software+Developer+%7C+UI%2FUX+Designer;Prompt+Engineer+%7C+Ethical+Hacker;Arch+Linux+User+%7C+Tech+Enthusiast" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -165,14 +163,5 @@
 
 ---
 
-<div align="center">
-
-### 🚀 Thanks for visiting! 
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=500&lines=Let's+build+something+amazing+together!;Feel+free+to+reach+out+anytime+%F0%9F%91%8B" alt="Typing SVG" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=&fontSize=0" alt="Footer Wave"/>
-
 </div>
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
