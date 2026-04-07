@@ -63,7 +63,7 @@
   <a href="https://stackoverflow.com/users/aaryan-bansal">
     <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/>
   </a>
-  <a href="https://x.com/Aaryan1460680">
+  <a href="https://x.com/NotUnHackable">
     <img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"/>
   </a>
   <a href="https://youtube.com/@NotUnHackable">
