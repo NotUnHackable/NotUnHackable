@@ -126,17 +126,6 @@
 
 </div>
 
-
-<div align="center">
-
-### ✍️ Random Dev Quote
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-
-</div>
-
-<div align="center">
-
 ### 🐍 Watch my contributions get eaten by the snake!
 
 <picture>
